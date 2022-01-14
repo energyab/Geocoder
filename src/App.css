@@ -1,0 +1,24 @@
+.App {
+  height: inherit;
+  width: 100%;
+  text-align: center;
+  display: flex;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.map {
+  width: 70%;
+}
+
+.routing {
+  width: 30%;
+}
+
+.marker {
+  border: 2px solid gray;
+  padding: 2vh 0;
+  margin-bottom: 2vh;
+}
